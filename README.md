@@ -1,1 +1,1 @@
-# 14.4-Pierwszy-komponent
+https://piotrmadeja.github.io/14.4-Pierwszy-komponent/. 
