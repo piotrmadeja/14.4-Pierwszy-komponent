@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+}
+.Container {
+  position: relative;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Container h1 {
+  color : white;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding: 0 45%;
+  margin: 0;
+  background: rgb(144, 158, 238);
+  font-size: 33px;
+}
+.Container {
+  background-image: url('../images/bg.jpg');
+  background-size: cover;
+}
+
+.movie {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.movie:first-of-type {
+  padding-top: 60px;
+}
+
+.description {
+  max-width: 400px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  background: rgba(0, 4, 22, 0.6);
+}
+
+.description h2 {
+  margin-top: 0;
+}
+
+.description ul {
+  padding: 0;
+}
+.description li {
+  list-style-type: none;
+}
+
+img {
+  max-width: 200px;
+  max-height: 300px;
+}
+
+.imdb-button {
+  color: red;
+
+}
+
+.imdb-button:hover {
+  cursor: pointer;
+}

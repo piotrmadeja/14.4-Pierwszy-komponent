@@ -1,0 +1,23 @@
+{
+  "name": "14.4-pierwszy-komponent",
+  "version": "1.0.0",
+  "description": "React",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrmadeja/14.4-Pierwszy-komponent.git"
+  },
+  "keywords": [
+    "React",
+    "component"
+  ],
+  "author": "Piotr Madeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrmadeja/14.4-Pierwszy-komponent/issues"
+  },
+  "homepage": "https://github.com/piotrmadeja/14.4-Pierwszy-komponent#readme"
+}
